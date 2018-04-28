@@ -1,0 +1,3 @@
+The best error message is the one that never shows up.
+You Learn More From Failure Than From Success. 
+The purpose of software engineering is to control complexity, not to create it
